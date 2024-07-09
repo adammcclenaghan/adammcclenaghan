@@ -9,7 +9,7 @@
 - 🌱 I'm currently working on my C++ and Rust. I'm always learning more about distributed systems and cloud native design.
 - 👯 I'd love to collaborate on high-performance libraries. Please reach out if you have a project which fits, this is an area I enjoy working in.
 - 📫 How to reach me: adam@mcclenaghan.co.uk
-- 
+
 <!--
 **adammcclenaghan/adammcclenaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
