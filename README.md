@@ -7,7 +7,7 @@
 
 - 🔭 For work I'm mostly focused on Golang, Linux, Kubernetes and Cloud (AWS/GCP). I still work in Java now and again, which I've worked in for most of my career.
 - 🌱 I'm currently working on my C++ and Rust. I'm always learning more about distributed systems and cloud native design.
-- 👯 I'd love to collaborate on high-performance libraries. Please reach out if you have a project which fits, this is an area I enjoy working in.
+- 🧑‍🤝‍🧑 I'd love to collaborate on high-performance libraries. Please reach out if you have a project which fits, this is an area I enjoy working in.
 - 📫 How to reach me: adam@mcclenaghan.co.uk
 
 <!--
