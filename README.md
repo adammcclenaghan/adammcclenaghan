@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 
-⌨️ Currently helping to build a cloud security platform. Most of my work is closed-source.
+⌨️ Currently helping build high throughput/low latency systems. Most of my work is closed-source.
 
-- 🔭 For work I'm mostly focused on **Golang**, **Linux**, **Kubernetes** and **Cloud** (AWS/GCP). I still work in **Java** now and again, which I've worked in for most of my career.
-- 🌱 I'm currently working on my **C++** and **Rust**. I'm always learning more about **distributed systems**, **cloud native design**.
+- 🔭 For work I'm mostly focused on **Golang**, **Kubernetes** and **Cloud**.
+- 🌱 I'm currently working on my **C++** and **Rust**. In 2026 I'm learning more about **compilers** and **OS internals**.
 - 🧑‍🤝‍🧑 I'd love to collaborate on **high-performance libraries**. Please reach out if you have a project which fits, this is an area I enjoy working in.
 - 📫 How to reach me: adam@mcclenaghan.co.uk
 
